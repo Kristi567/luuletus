@@ -1,0 +1,16 @@
+#container{
+    text-align: center;
+background-color:#E5E5E5
+}
+
+h1 {
+    color:rgb(red, rgb(48, 22, 95), blue)
+    font-style:italic;
+}
+
+#author-img {
+    width: 135px;
+}
+
+.verse {
+    font-size:large
